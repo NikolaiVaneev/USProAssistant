@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace MotoShop.Infrastructure.Commands.Base
+namespace USPro.Infrastructure.Commands.Base
 {
     internal abstract class Command : ICommand
     {

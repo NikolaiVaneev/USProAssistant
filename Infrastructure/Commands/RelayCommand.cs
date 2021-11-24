@@ -1,7 +1,7 @@
-﻿using MotoShop.Infrastructure.Commands.Base;
+﻿using USPro.Infrastructure.Commands.Base;
 using System;
 
-namespace MotoShop.Infrastructure.Commands
+namespace USPro.Infrastructure.Commands
 {
     internal class RelayCommand : Command
     {
